@@ -56,6 +56,7 @@ A moving average is a statistical calculation used to analyze data points by cre
 
 ![GitHub Logo](/Images/3.png)
 
+<br>
 
-To analyse further using the interactive Dashboard Report, please use the public link to the Dashboard. 
+**To analyse further using the interactive Dashboard Report, please use the public link to the <a href="https://app.powerbi.com/view?r=eyJrIjoiMTE1ZTEwY2ItZTBkNS00ZDZkLThjM2YtYWU2MGI2OGE4OGMwIiwidCI6ImQ0Y2FkNDliLWRkNTYtNGUzYi04MGE4LWVlYzk0N2Y0MzFlNCJ9" target="_blank">Dashboard</a>.** 
 
