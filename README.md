@@ -33,3 +33,20 @@ Two companies based in Australia are joining forces.  For a smooth transition, t
 - Coffs Harbour, Sydney, Albury, and Grafton contributes the most to sales across all 14 cities.
 - Product Brimmer accounted for 6.58% of the total quantity sold in 2015.
 - The moving average remained flat throughout 2015 and 2016.
+
+
+### Dashboard Overview
+***
+
+**Sales and Profit Dashboard**
+
+![GitHub Logo](/images/1.png)
+
+**Past Years Sales and Profit**
+
+![GitHub Logo](/images/2.png)
+
+**Moving Average**
+
+![GitHub Logo](/images/3.png)
+
