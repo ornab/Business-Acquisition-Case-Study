@@ -1,6 +1,6 @@
 ## Business Acquisition Case Study
 
-**Public Dashborad:**  https://app.powerbi.com/view?r=eyJrIjoiMTE1ZTEwY2ItZTBkNS00ZDZkLThjM2YtYWU2MGI2OGE4OGMwIiwidCI6ImQ0Y2FkNDliLWRkNTYtNGUzYi04MGE4LWVlYzk0N2Y0MzFlNCJ9
+**Public link to the Dashborad:**  https://app.powerbi.com/view?r=eyJrIjoiMTE1ZTEwY2ItZTBkNS00ZDZkLThjM2YtYWU2MGI2OGE4OGMwIiwidCI6ImQ0Y2FkNDliLWRkNTYtNGUzYi04MGE4LWVlYzk0N2Y0MzFlNCJ9
 
 
 
@@ -52,6 +52,10 @@ Two companies based in Australia are joining forces.  For a smooth transition, t
 
 **3. Moving Average:**
 
+A moving average is a statistical calculation used to analyze data points by creating a series of averages of different subsets of the full dataset. It smooths out fluctuations to identify trends over time.
 
 ![GitHub Logo](/Images/3.png)
+
+
+To analyse further using the interactive Dashboard Report, please use the public link to the Dashboard. 
 
