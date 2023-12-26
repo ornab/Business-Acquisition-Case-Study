@@ -38,7 +38,7 @@ Two companies based in Australia are joining forces.  For a smooth transition, t
 ### Dashboard Overview
 ***
 
-**Sales and Profit Dashboard**
+<u> **1. Sales and Profit Dashboard** </u>
 
 ![GitHub Logo](/Images/1.png)
 
