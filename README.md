@@ -4,7 +4,7 @@
 
 ***
 
-**Project Overview and KPIs**
+###Project Overview and KPIs
 ***
 Two companies based in Australia are joining forces.  For a smooth transition, the following parameters need to be checked to audit the business structure of both the companies:
 
@@ -22,7 +22,7 @@ Two companies based in Australia are joining forces.  For a smooth transition, t
 
 
 
-**Key Insights**
+###Key Insights
 ***
 
 - The total profit for 2016 increased by just 0.57% compared to last year, whereas the total profit increased 71.83% compared to 2014. 
