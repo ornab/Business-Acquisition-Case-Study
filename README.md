@@ -5,7 +5,7 @@
 ***
 
 **Project Overview and KPIs**
-
+***
 Two companies based in Australia are joining forces.  For a smooth transition, the following parameters need to be checked to audit the business structure of both the companies:
 
 - How much did companies sell and how many products did they sell?
@@ -20,10 +20,10 @@ Two companies based in Australia are joining forces.  For a smooth transition, t
 - Analyze sales performance by region, sales channel, city, and product names.
 - Tracking the average profit and sales trends over time.
 
-***
+
 
 **Key Insights**
-
+***
 
 - The total profit for 2016 increased by just 0.57% compared to last year, whereas the total profit increased 71.83% compared to 2014. 
 - Total Sales for 2016 rose by only 1.1% compared to last year and it was increased by 69.5% compared to 2014. 
