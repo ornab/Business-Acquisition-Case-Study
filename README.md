@@ -38,16 +38,20 @@ Two companies based in Australia are joining forces.  For a smooth transition, t
 ### Dashboard Overview
 ***
 
-<span style="text-decoration: underline; font-weight: bold;">1. Sales and Profit Dashboard</span>
+**1. Sales and Profit Dashboard:**
 
 
 ![GitHub Logo](/Images/1.png)
 
-**Past Years Sales and Profit**
+
+**2. Past Years Sales and Profit:**
+
 
 ![GitHub Logo](/Images/2.png)
 
-**Moving Average**
+
+**3. Moving Average:**
+
 
 ![GitHub Logo](/Images/3.png)
 
