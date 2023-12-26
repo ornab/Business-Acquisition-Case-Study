@@ -2,6 +2,8 @@
 
 **Public Dashborad:**  https://app.powerbi.com/view?r=eyJrIjoiMTE1ZTEwY2ItZTBkNS00ZDZkLThjM2YtYWU2MGI2OGE4OGMwIiwidCI6ImQ0Y2FkNDliLWRkNTYtNGUzYi04MGE4LWVlYzk0N2Y0MzFlNCJ9
 
+---
+
 **Project Overview and KPIs**
 
 Two companies based in Australia are joining forces.  For a smooth transition, the following parameters need to be checked to audit the business structure of both the companies:
