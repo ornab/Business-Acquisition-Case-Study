@@ -2,7 +2,7 @@
 
 **Public Dashborad:**  https://app.powerbi.com/view?r=eyJrIjoiMTE1ZTEwY2ItZTBkNS00ZDZkLThjM2YtYWU2MGI2OGE4OGMwIiwidCI6ImQ0Y2FkNDliLWRkNTYtNGUzYi04MGE4LWVlYzk0N2Y0MzFlNCJ9
 
----
+***
 
 **Project Overview and KPIs**
 
@@ -20,6 +20,7 @@ Two companies based in Australia are joining forces.  For a smooth transition, t
 - Analyze sales performance by region, sales channel, city, and product names.
 - Tracking the average profit and sales trends over time.
 
+***
 
 **Key Insights**
 
