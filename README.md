@@ -34,6 +34,10 @@ Two companies based in Australia are joining forces.  For a smooth transition, t
 - Product Brimmer accounted for 6.58% of the total quantity sold in 2015.
 - The moving average remained flat throughout 2015 and 2016.
 
+### Data Model View
+***
+
+![GitHub Logo](/Images/4.png)
 
 ### Dashboard Overview
 ***
