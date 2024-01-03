@@ -1,4 +1,4 @@
-## Business Acquisition Case Study
+## Business Acquisition Case Study with Power BI
 
 **Public link to the Dashborad:**  https://app.powerbi.com/view?r=eyJrIjoiMTE1ZTEwY2ItZTBkNS00ZDZkLThjM2YtYWU2MGI2OGE4OGMwIiwidCI6ImQ0Y2FkNDliLWRkNTYtNGUzYi04MGE4LWVlYzk0N2Y0MzFlNCJ9
 
